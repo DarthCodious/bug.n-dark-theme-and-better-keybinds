@@ -1,7 +1,9 @@
 # bug.n-dark-theme-and-better-keybinds
 Like the title says, I've been using Bug.N on Windows 10 and wanted to upload my Config file. Main changes are a black toolbar, red line indicators for virtual workspaces that are in use, and better keybinds. 
 
-#### You still need to download and install bug.n separately. Then just backup your config file and drop the one I've provided in. The config file for me was stored in: 
+#### You still need to download and install bug.n separately from fuhsjr00 on github: https://github.com/fuhsjr00/bug.n 
+
+Then just backup your config file and drop the one I've provided in. The config file for me was stored in: 
 
 c: / users / your windows username / bug.n / src / config.ahk 
 

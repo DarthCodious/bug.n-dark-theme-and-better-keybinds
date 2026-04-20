@@ -95,7 +95,7 @@ Config_init() {
   Config_rule_#7   := "MsiDialog(No)?CloseClass;.*;;1;0;0;1;1;0;"
   Config_rule_#8   := "AdobeFlashPlayerInstaller;.*;;1;0;0;1;0;0;"
   Config_rule_#9   := "CalcFrame;.*;;1;0;0;1;1;0;"
-  Config_rule_#10  := "CabinetWClass;.*;;1;0;0;0;1;0;"
+  Config_rule_#10  := "CabinetWClass;.*;;1;0;0;1;1;0;"
   Config_rule_#11  := "OperationStatusWindow;.*;;0;0;0;1;1;0;"
   Config_rule_#12  := "Chrome_WidgetWin_1;.*;;1;0;0;0;1;0;"
   Config_rule_#13  := "Chrome_WidgetWin_1;.*;Window_isPopup;0;0;0;1;1;0;"

@@ -68,6 +68,6 @@ Win+Ctrl+Down (or up) arrow = shrink/grow the workspace “blocks quantity” do
 General syntax used by documentation (and code?):
 ! Alt
 ^ Ctrl
-# Win, the left one
+Hashtag: left windows key
 Shift
 
